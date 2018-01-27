@@ -1,3 +1,8 @@
 remote_theme: mmistakes/minimal-mistakes
 title: About Me: Ella Wells
 include: ["_pages"]
+
+author:
+  name: "About Me"
+  avatar: "https://www.jdextravaganza.com/wp-content/uploads/2016/01/Dancer-1-Wide.png"
+  bio: I do competitive dance and play lacrosse
