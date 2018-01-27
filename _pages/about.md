@@ -4,4 +4,5 @@ permalink: /about/
 title: About
 author_profile: true
 ---
-blah blah blah
+
+# all about some interesting person
