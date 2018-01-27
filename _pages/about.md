@@ -5,4 +5,4 @@ title: About
 author_profile: true
 ---
 
-# all about some interesting person
+blah blah blah 
