@@ -3,4 +3,4 @@ layout: single
 permalink: /
 ---
 
-**Who I Am:**
+**Hello, ChickTech!**
